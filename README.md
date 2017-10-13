@@ -1,0 +1,2 @@
+# MagicMirror
+just for fun~
